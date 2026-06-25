@@ -1,0 +1,226 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Bluetooth Headphones",
+      "price": 79.99,
+      "description": "Over-ear wireless headphones with active noise cancellation and 30-hour battery life.",
+      "status": "Available",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&q=80",
+      "createdAt": "2026-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Smart Fitness Watch",
+      "price": 129.5,
+      "description": "Tracks heart rate, sleep, and workouts. Water resistant up to 50m.",
+      "status": "Available",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&q=80",
+      "createdAt": "2026-01-12T09:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Mechanical Gaming Keyboard",
+      "price": 99,
+      "description": "RGB backlit mechanical keyboard with hot-swappable switches.",
+      "status": "Out of Stock",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&q=80",
+      "createdAt": "2026-01-15T09:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "4K Ultra HD Webcam",
+      "price": 59.99,
+      "description": "Crystal clear 4K webcam with auto-focus, perfect for streaming and calls.",
+      "status": "Available",
+      "image": "https://images.unsplash.com/photo-1587826080692-f439cd0b70da?w=400&q=80",
+      "createdAt": "2026-01-18T09:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "name": "Portable Bluetooth Speaker",
+      "price": 45,
+      "description": "Compact speaker with deep bass and 12-hour playtime.",
+      "status": "Out of Stock",
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&q=80",
+      "createdAt": "2026-01-20T09:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "name": "USB-C Fast Charger 65W",
+      "price": 29.99,
+      "description": "Compact GaN charger that fits laptops and phones alike.",
+      "status": "Available",
+      "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=400&q=80",
+      "createdAt": "2026-01-22T09:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "name": "Ergonomic Office Chair",
+      "price": 249.99,
+      "description": "Adjustable lumbar support chair built for long work sessions.",
+      "status": "Available",
+      "image": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=400&q=80",
+      "createdAt": "2026-01-25T09:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "name": "Wireless Mouse",
+      "price": 19.99,
+      "description": "Lightweight wireless mouse with precision tracking.",
+      "status": "Out of Stock",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400&q=80",
+      "createdAt": "2026-01-28T09:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "name": "27-inch Curved Monitor",
+      "price": 219,
+      "description": "QHD curved monitor with 144Hz refresh rate for smooth visuals.",
+      "status": "Available",
+      "image": "https://images.unsplash.com/photo-1527443195645-1133f7f28990?w=400&q=80",
+      "createdAt": "2026-02-01T09:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "name": "Noise-Cancelling Earbuds",
+      "price": 89,
+      "description": "True wireless earbuds with adaptive noise cancellation.",
+      "status": "Available",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&q=80",
+      "createdAt": "2026-02-04T09:00:00.000Z"
+    },
+    {
+      "id": "11",
+      "name": "Smart Home Hub",
+      "price": 75.5,
+      "description": "Central hub to control smart lights, locks, and sensors.",
+      "status": "Out of Stock",
+      "image": "https://images.unsplash.com/photo-1558002038-1991ec3fcb52?w=400&q=80",
+      "createdAt": "2026-02-08T09:00:00.000Z"
+    },
+    {
+      "id": "12",
+      "name": "Portable SSD 1TB",
+      "price": 109.99,
+      "description": "Compact external SSD with read speeds up to 1050MB/s.",
+      "status": "Available",
+      "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=400&q=80",
+      "createdAt": "2026-02-11T09:00:00.000Z"
+    },
+    {
+      "name": "Vitamin Serum",
+      "price": 100,
+      "description": "The Best Serum ever",
+      "status": "Available",
+      "image": "data:image/jpeg;base64,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",
+      "createdAt": "2026-06-25T11:15:02.662Z",
+      "id": "zb35-WbNUKE"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Layla Haddad",
+      "email": "layla.haddad@example.com",
+      "role": "Admin",
+      "avatar": "https://i.pravatar.cc/100?img=47",
+      "joinedAt": "2025-11-02T09:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Omar Salim",
+      "email": "omar.salim@example.com",
+      "role": "User",
+      "avatar": "https://i.pravatar.cc/100?img=12",
+      "joinedAt": "2025-11-10T09:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Sara Nimr",
+      "email": "sara.nimr@example.com",
+      "role": "User",
+      "avatar": "https://i.pravatar.cc/100?img=32",
+      "joinedAt": "2025-11-18T09:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Yousef Atari",
+      "email": "yousef.atari@example.com",
+      "role": "Admin",
+      "avatar": "https://i.pravatar.cc/100?img=15",
+      "joinedAt": "2025-12-01T09:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "name": "Maya Khalil",
+      "email": "maya.khalil@example.com",
+      "role": "User",
+      "avatar": "https://i.pravatar.cc/100?img=23",
+      "joinedAt": "2025-12-09T09:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "name": "Tariq Farouk",
+      "email": "tariq.farouk@example.com",
+      "role": "User",
+      "avatar": "https://i.pravatar.cc/100?img=51",
+      "joinedAt": "2025-12-15T09:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "name": "Nour Aziz",
+      "email": "nour.aziz@example.com",
+      "role": "User",
+      "avatar": "https://i.pravatar.cc/100?img=44",
+      "joinedAt": "2026-01-03T09:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "name": "Khalid Mansour",
+      "email": "khalid.mansour@example.com",
+      "role": "User",
+      "avatar": "https://i.pravatar.cc/100?img=8",
+      "joinedAt": "2026-01-20T09:00:00.000Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "month": "Jan",
+      "count": 42,
+      "revenue": 3120.5
+    },
+    {
+      "id": "2",
+      "month": "Feb",
+      "count": 58,
+      "revenue": 4310
+    },
+    {
+      "id": "3",
+      "month": "Mar",
+      "count": 65,
+      "revenue": 4890.75
+    },
+    {
+      "id": "4",
+      "month": "Apr",
+      "count": 51,
+      "revenue": 3990.2
+    },
+    {
+      "id": "5",
+      "month": "May",
+      "count": 73,
+      "revenue": 5640
+    },
+    {
+      "id": "6",
+      "month": "Jun",
+      "count": 88,
+      "revenue": 6710.4
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
