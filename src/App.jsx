@@ -44,10 +44,22 @@ function App() {
                 }
               >
                 <Route index element={<DashboardPage />} />
-                <Route path="products" element={<ProductsPage onToast={showToast} />} />
-                <Route path="products/new" element={<AddProductPage onToast={showToast} />} />
-                <Route path="products/edit/:id" element={<EditProductPage onToast={showToast} />} />
-                <Route path="users" element={<UsersPage onToast={showToast} />} />
+                <Route
+                  path="products"
+                  element={<ProductsPage onToast={showToast} />}
+                />
+                <Route
+                  path="products/new"
+                  element={<AddProductPage onToast={showToast} />}
+                />
+                <Route
+                  path="products/edit/:id"
+                  element={<EditProductPage onToast={showToast} />}
+                />
+                <Route
+                  path="users"
+                  element={<UsersPage onToast={showToast} />}
+                />
               </Route>
 
               <Route path="/404" element={<NotFoundPage />} />
